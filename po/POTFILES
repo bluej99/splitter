@@ -1,0 +1,7 @@
+data/com.github.bluej99.Splitter.desktop.in
+data/com.github.bluej99.Splitter.appdata.xml.in
+data/com.github.bluej99.Splitter.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

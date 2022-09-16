@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="splitter">
+	<schema id="com.github.bluej99.Splitter" path="/com/github/bluej99/Splitter/">
+	</schema>
+</schemalist>
